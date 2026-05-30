@@ -1,47 +1,218 @@
-# 💫 Hi 👋, I'm Vinay Dhiman
-**A passionate MERN-Stack Engineer || Software Engineer || Lucknow from India**
-
-Email Me 👉 ✉️ **vinaydhiman289@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-- 🔭 **I’m currently working on:** FitTrack App
-- 🌱 **I’m currently learning:** MERN Stack
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** vinaydhiman289@gmail.com
-- 😄 **Pronouns:** Vinay Dhiman
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_whovinay_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vinay-dhiman-36996731b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinaydhiman289@gmail.com) 
-
-<!-- Snake Game Repo View -->
-
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+<!-- ANIMATED HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vinay%20Dhiman&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" />
+
+<!-- TYPING ANIMATION -->
+<a href="https://github.com/Vinaydhiman985">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+full-stack+products+that+scale+%F0%9F%9A%80;MERN+Stack+%7C+React+%7C+Node.js+%7C+MongoDB;Turning+ideas+into+real+software+%F0%9F%94%A5;Open+to+Collaborations+%26+Internships+%F0%9F%A4%9D" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- QUICK BADGES -->
+<p>
+  <img src="https://img.shields.io/badge/Focus-MERN%20Stack-7C3AED?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/University-SRMU%202027-4F46E5?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-10B981?style=for-the-badge&logo=checkmark&logoColor=white" />
+</p>
+
 </div>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=plastic&logo=dribbble&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=plastic&logo=testing-library&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=plastic&logo=Meta&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vinaydhiman985&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Vinaydhiman985&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinaydhiman985&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Vinaydhiman985&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
+<!-- ABOUT ME -->
+## 🧠 About Me
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Vinaydhiman985&limit=5&theme=dark&combine_all_yearly_contributions=true)
+```javascript
+const vinay = {
+  role      : "Full-Stack Engineer (MERN)",
+  university: "Shri Ramswaroop Memorial University — CSE '27",
+  location  : "Lucknow, India 🇮🇳",
+  building  : ["Arogya (health-tech)", "ClinSight (hospital AI)", "Zerova (agency SaaS)"],
+  learning  : ["System Design", "AI Integration", "DevOps basics"],
+  passions  : ["Clean code", "Product thinking", "Competitive BGMI 🎮"],
+  contact   : "vinaydhiman289@gmail.com",
+  motto     : "Ship fast. Learn faster. Build things people actually use."
+};
+```
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Vinaydhiman985&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buy me a coffee) 
+<!-- SKILLS -->
+## 🛠️ Tech Stack
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**AI & Cloud**
+
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-FF6B35?style=for-the-badge&logo=lightning&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Languages & Tools**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+<!-- FEATURED PROJECTS -->
+## 🚀 Featured Projects
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+### 🏥 Arogya
+> Health-tech platform for rural India
+
+- 🩸 Blood donor network + smart matching
+- 🤖 AI symptom checker (Gemini API)
+- 📱 QR health passport
+- 💓 rPPG real-time vitals
+
+**Stack:** React · Vite · Supabase · Gemini · Vercel
+
+[![Arogya](https://img.shields.io/badge/View_Project-7C3AED?style=flat-square&logo=github)](https://github.com/Vinaydhiman985)
+
+</td>
+<td width="50%">
+
+### 🏨 ClinSight
+> AI-powered hospital management system
+
+- 🤖 Multi-agent AI layer (Groq + Gemini)
+- 📊 Patient & inventory tracking
+- 🔐 JWT auth + role-based access
+- ⚡ Real-time dashboards
+
+**Stack:** React · Vite · Express · MongoDB · Groq
+
+[![ClinSight](https://img.shields.io/badge/View_Project-7C3AED?style=flat-square&logo=github)](https://github.com/Vinaydhiman985)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏢 Zerova
+> Production-ready agency SaaS website
+
+- ✨ Framer Motion animations
+- 📬 Contact form with Express backend
+- 🎨 Tailwind responsive design
+- 🚀 Vite optimized build
+
+**Stack:** React · Vite · Tailwind · Express · MongoDB
+
+[![Zerova](https://img.shields.io/badge/View_Project-7C3AED?style=flat-square&logo=github)](https://github.com/Vinaydhiman985)
+
+</td>
+<td width="50%">
+
+### 🏃 FitTrack
+> Gamified walking & territory-conquest app
+
+- 🗺️ Real-time multiplayer (Socket.io)
+- 🤖 TensorFlow.js anti-cheat
+- 📱 React Native + Expo
+- 🔑 JWT auth + Nodemailer
+
+**Stack:** React Native · Expo · Node.js · MongoDB
+
+[![FitTrack](https://img.shields.io/badge/View_Project-7C3AED?style=flat-square&logo=github)](https://github.com/Vinaydhiman985)
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<!-- GITHUB STATS -->
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinaydhiman985&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinaydhiman985&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+<div align="center">
+  <img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=Vinaydhiman985&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vinaydhiman985&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7" />
+</div>
+
+---
+
+<!-- ACTIVITY GRAPH -->
+## 📈 Contribution Graph
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vinaydhiman985&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
+
+<!-- CONNECT -->
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-dhiman-36996731b/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_whovinay_)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinaydhiman289@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinaydhiman985)
+
+<br/>
+
+> 💬 *Open to internships, collaborations, freelance projects, and hackathon teams.*
+> <br/> Drop a mail — I reply fast. ⚡
+
+</div>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+
+[![Visitor Count](https://visitcount.itsvg.in/api?id=Vinaydhiman985&icon=5&color=6)](https://visitcount.itsvg.in)
+
+*"Ship fast. Learn faster. Build things people actually use."*
+
+</div>
