@@ -21,25 +21,55 @@
 
 ---
 
-<!-- ABOUT ME -->
 ## 🧠 About Me
 
-```javascript
-const vinay = {
+<table>
+<tr>
+<td valign="top" width="55%">
+
+```ts
+const vinay: Developer = {
+  name      : "Vinay Dhiman",
   role      : "Full-Stack Engineer (MERN)",
-  university: "Shri Ramswaroop Memorial University — CSE '27",
-  location  : "Lucknow, India 🇮🇳",
-  building  : ["Arogya (health-tech)", "ClinSight (hospital AI)", "Zerova (agency SaaS)"],
-  learning  : ["System Design", "AI Integration", "DevOps basics"],
-  passions  : ["Clean code", "Product thinking", "Competitive BGMI 🎮"],
-  contact   : "vinaydhiman289@gmail.com",
-  motto     : "Ship fast. Learn faster. Build things people actually use."
+  university: "SRMU — CSE '27 | Lucknow 🇮🇳",
+
+  currentlyBuilding: [
+    "Arogya      → health-tech for rural India",
+    "ClinSight   → AI hospital management",
+    "Zerova      → agency SaaS platform",
+  ],
+
+  learning : ["System Design", "AI Agents", "DevOps"],
+  hobbies  : ["BGMI 🎮", "Judo 🥋", "YouTube 🎬"],
+
+  openTo   : "internships · collabs · hackathons",
+  contact  : "vinaydhiman289@gmail.com",
 };
 ```
 
+</td>
+<td valign="top" width="45%">
+
+<br/>
+
+🔭 &nbsp; **Building** 3 live products right now  
+🌱 &nbsp; **Learning** system design + AI integration  
+⚡ &nbsp; **Fun fact** I debugged more code than I slept last semester  
+🏆 &nbsp; **Hackathon** Team Maverick @ CodeRush 2.0  
+🎯 &nbsp; **Goal** Land a strong SWE internship in 2025  
+📬 &nbsp; **Reach me** vinaydhiman289@gmail.com  
+
+<br/>
+
+> *"Ship fast. Learn faster.*  
+> *Build things people actually use."*
+
+</td>
+</tr>
+</table>
+
 ---
 
-<!-- SKILLS -->
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -51,8 +81,6 @@ const vinay = {
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Backend & Database**
@@ -62,7 +90,6 @@ const vinay = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **AI & Cloud**
 
@@ -86,7 +113,6 @@ const vinay = {
 
 ---
 
-<!-- FEATURED PROJECTS -->
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -112,7 +138,7 @@ const vinay = {
 ### 🏨 ClinSight
 > AI-powered hospital management system
 
-- 🤖 Multi-agent AI layer (Groq + Gemini)
+- 🤖 Multi-agent AI (Groq + Gemini + Claude)
 - 📊 Patient & inventory tracking
 - 🔐 JWT auth + role-based access
 - ⚡ Real-time dashboards
@@ -160,34 +186,37 @@ const vinay = {
 
 ---
 
-<!-- GITHUB STATS -->
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinaydhiman985&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinaydhiman985&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinaydhiman985&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinaydhiman985&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=github-readme-stats" />
+
 </div>
 
 <div align="center">
-  <img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=Vinaydhiman985&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vinaydhiman985&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7" />
+  <img width="68%" src="https://nirzak-streak-stats.vercel.app/?user=Vinaydhiman985&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
 ---
 
-<!-- ACTIVITY GRAPH -->
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vinaydhiman985&theme=tokyo-night&hide_border=true&area=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vinaydhiman985&theme=tokyo-night&hide_border=true&area=true&area_color=7C3AED&line=A78BFA&point=ffffff&color=ffffff" />
 </div>
 
 ---
 
-<!-- CONNECT -->
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vinaydhiman985&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+</div>
+
+---
+
 ## 🌐 Let's Connect
 
 <div align="center">
@@ -199,14 +228,13 @@ const vinay = {
 
 <br/>
 
-> 💬 *Open to internships, collaborations, freelance projects, and hackathon teams.*
-> <br/> Drop a mail — I reply fast. ⚡
+> 💬 *Open to internships, collaborations, freelance projects, and hackathon teams.*  
+> Drop a mail — I reply fast. ⚡
 
 </div>
 
 ---
 
-<!-- FOOTER -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
