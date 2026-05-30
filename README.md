@@ -40,7 +40,7 @@ const vinay: Developer = {
   ],
 
   learning : ["System Design", "AI Agents", "DevOps"],
-  hobbies  : ["BGMI 🎮", "Judo 🥋", "YouTube 🎬"],
+  hobbies  : ["BGMI 🎮",  "YouTube 🎬"],
 
   openTo   : "internships · collabs · hackathons",
   contact  : "vinaydhiman289@gmail.com",
